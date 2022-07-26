@@ -1,9 +1,19 @@
-﻿# MyReads React Udacity Project
+﻿﻿# MyReads React Udacity Project
 
-## App Mechanism : Searching for books you want and add them to 
-the shelf state you want every previous books in your bookshelf their state are updated on
-search route and also search reflects changes in main.
+## App Features :
+- Searching for big variety of different books in search route.
+- Having your books categorized to (currentlyReading , wantToRead , read) in your main route .
+- Using Inverse data flow search for another books in search route and add them to your main route with state you want (currentlyReading or wantToRead or read ) .
+- Be Enable To remove Books from your Shelves in main route and add them back from search route to your main .
 
-## ** Functional Components used **
+## what is used ?
+- HTML5
+- CSS3
+- JAVASCRIPT ( ES6 )
+- API
+- React Library
+- React Routing
 
-## Author : Mohamed Kamal Mohamed
+### ** Note : React Functional Components used **
+
+## Author's Name  : Mohamed Kamal Mohamed
